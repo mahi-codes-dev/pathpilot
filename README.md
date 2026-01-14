@@ -128,30 +128,30 @@ flutter run
 ⚠️ Firebase configuration files are excluded for security reasons.
 
 🏆 Hackathon Project
--This project was built as part of a student innovation hackathon, focusing on:
+- This project was built as part of a student innovation hackathon, focusing on:
 
--Solving real-world student problems
+- Solving real-world student problems
 
--Practical usability
+- Practical usability
 
--Clean and scalable architecture
+- Clean and scalable architecture
 
--Offline reliability
+- Offline reliability
 
 🚀 Future Enhancements
--Skill-based career roadmaps
+- Skill-based career roadmaps
 
--Push notifications & reminders
+- Push notifications & reminders
 
--Expense categorization with charts
+- Expense categorization with charts
 
--Mentor / counselor integration
+- Mentor / counselor integration
 
--Web dashboard for institutions
+- Web dashboard for institutions
 
 👨‍💻 Author
--Mahesh Lute
--GitHub: https://github.com/mahi-codes-dev
+- Mahesh Lute
+- GitHub: https://github.com/mahi-codes-dev
 
 📜 License
--This project is created for educational and hackathon purposes.
+- This project is created for educational and hackathon purposes.
